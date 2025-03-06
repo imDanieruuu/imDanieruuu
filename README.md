@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @imDanieruuu
-- 👀 I’m interested in ... Tech Stuff
-- 🌱 I’m currently learning ... Python for Data Engineering
+- 👋🏻 Hi, I’m @imDanieruuu
+- 👨🏻‍💻 I’m interested in ... Tech Stuff
+- 📚 I’m currently learning ... Python for Data Engineering
 - 📫 How to reach me ... liwagdanieru@gmail.com
 
 <!---
